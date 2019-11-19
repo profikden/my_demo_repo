@@ -1,2 +1,2 @@
 # my_demo_repo
-just fir testing Git features
+just for testing Git features
