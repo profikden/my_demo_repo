@@ -1,0 +1,5 @@
+#ignore log files
+*.log
+
+#but track error logs
+!error.log
